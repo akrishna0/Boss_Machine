@@ -13,9 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2",
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.19.0",
     "chai": "^4.1.1",
-    "cors": "^2.8.4",
+    "cors": "^2.8.5",
     "cross-env": "^5.1.1",
     "express": "^4.15.4",
     "mocha": "^6.1.3",
